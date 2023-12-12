@@ -1,0 +1,5 @@
+npm install bootstrap
+npm install sweetalert
+npm install react-router-dom
+
+
